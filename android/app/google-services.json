@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003230566822",
+    "firebase_url": "https://key-ring-c3a3b.firebaseio.com",
+    "project_id": "key-ring-c3a3b",
+    "storage_bucket": "key-ring-c3a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003230566822:android:889a8a35b3983354f7d767",
+        "android_client_info": {
+          "package_name": "com.brainiac.key_ring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003230566822-7hqmki02rt597l6a6er1mbe6po2u9p4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brainiac.key_ring",
+            "certificate_hash": "d5255f4756607386da71b4754902fdd3f058f562"
+          }
+        },
+        {
+          "client_id": "1003230566822-1vg2iful7aj4j4lp6raafr4f3evedc2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr05RgUP70HZpLPTEA5K1z7_GqGDn5hdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003230566822-1vg2iful7aj4j4lp6raafr4f3evedc2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
